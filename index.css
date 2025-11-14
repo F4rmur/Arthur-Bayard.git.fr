@@ -1,0 +1,23 @@
+body{
+    background: #62a388; 
+    color: #343434;
+}
+
+.navbar {
+    background: #343434; 
+}
+
+#part1{
+    background: #055e68; 
+    color: #b9d2d2;
+    padding-top: 20px;
+    height: 400px;
+    text-align: center;
+}
+
+.couleurs{
+	background: #343434; 
+	background: #055e68; 
+	background: #62a388; 
+	background: #b9d2d2; 
+}
